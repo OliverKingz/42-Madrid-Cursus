@@ -1,4 +1,4 @@
-# 42 Madrid Cursus by Ozamora-
+# 42 Madrid Cursus by Oliver Zamora (ozamora-)
 
 Welcome to my 42 Madrid Cursus portfolio! Here you will find an overview of the skills and projects I’ve developed throughout my journey at 42 Madrid, a highly innovative, self-paced programming school that uses a peer-to-peer learning model.
 
@@ -7,27 +7,58 @@ Welcome to my 42 Madrid Cursus portfolio! Here you will find an overview of the 
 ## About 42 Madrid
 
 42 is a global, innovative coding school that emphasizes self-learning, collaboration, and hands-on project work. There are no teachers, only peers. This educational approach challenges students to develop both hard and soft skills while working on real-world problems in a variety of programming languages and technologies.
+
 ---
 
 ## Finished Projects
 
 | Project | Description | Topics |
 | :-----: | :---------: | :----: |
-| libft | *Your very first own library* | C, Makefile, Library |
-| get_next_line | *Reading a line on a *fd* is way too tedious* | C, Reading |
-| ft_printf | *Because putnbr and putstr aren’t enough* | C, Makefile, Print |
-| born2beroot | *The wonderful world of virtualization* | Shell, Virtualization |
-| ``exam-02`` | *Rank 2 exam* | C, exam, *ft_printf*, *get_next_line* |
-| push_swap | *Because swap_push isn’t as natural* | C, Makefile, Sorting |
-| so_long | *And thanks for all the fish!* | C, Makefile, UX, Videogame |
-| pipex | *Go dance salsa somewhere :)* | C, Makefile, Fork |
-| ``exam-03`` | *Rank 3 exam* | C, exam, *mini_paint*, *micro_paint* |
-| philosophers | *I’ve never thought philosophy would be so deadly* | C, Makefile, Thread, Mutex |
-| minishell | *As beautiful as a shell* | C, Makefile, Shell |
-| ``exam-04`` | *Rank 4 exam* | C, Makefile, exam, *minishell*, *microshell* |
-| cub3d | *My first RayCaster with miniLibX* | C, Makefile, cub3d, FPS, UX |
-| CPP Modules 00-04 | *Lots of basic stuff* | C++, Makefile |
-| NetPractice | *Fred, there is an unplugged Ethernet cable...* | Networking |
+| [libft] | *Your first C library, replicating standard functions and adding custom utilities.* | C, Makefile, Library |
+| [get_next_line] | *Reads a line from a file descriptor, essential for file and input handling.* | C, File I/O, Reading |
+| [ft_printf] | *A custom implementation of printf, supporting basic formatting and variadic functions.* | C, Makefile, Print |
+| born2beroot | *Introduction to virtualization with a custom Linux server setup* | Shell, Virtualization |
+| ``exam-02`` | *Rank 2 exam, testing knowledge of C basics* | C, Exam |
+| [so_long] | *A 2D game using MLX42, focusing on graphics, sprites, and game logic.!* | C, Makefile, UX, Graphics, Videogame |
+| [push_swap] | *Sorts data on a stack using a limited set of instructions, optimizing for the fewest moves.* | C, Makefile, Sorting Algorithms |
+| [pipex] (WIP)| *Mimics shell pipes, handling command execution and I/O redirection.	* | C, Makefile, Fork, Process Management |
+
+ [libft]: https://github.com/oliverkingz/Libft_OZ
+ [get_next_line]: https://github.com/oliverkingz/get_next_line
+ [ft_printf]: https://github.com/oliverkingz/ft_printf
+ [push_swap]: https://github.com/oliverkingz/push_swap
+ [so_long]: https://github.com/oliverkingz/so_long
+ [pipex]: https://github.com/oliverkingz/pipex
+
+## Future Projects (TBD)
+
+| Project | Description | Topics |
+| :-----: | :---------: | :----: |
+| ``exam-03`` | *Rank 3 exam, testing knowledge of ft_printf, and get_next_line.* | C, exam, *ft_printf*, *get_next_line* |
+| [philosophers] | *Simulates the dining philosophers problem, exploring threads and mutexes* | C, Makefile, Thread, Mutex |
+| [minishell] | *A minimal shell implementation, handling basic commands and pipelines.* | C, Makefile, Shell |
+| ``exam-04`` | *Rank 4 exam* | C, exam, *mini_paint*, *micro_paint* |
+| [cub3d] | *A raycasting-based 3D game inspired by Wolfenstein 3D.* | C, Makefile, 3D Rendering, FPS, UX |
+| [miniRT] | *An introduction to ray tracing, creating simple 3D scenes with lighting.* | C, Makefile, Graphics, Raytracing |
+| [CPP Modules 00-04] | *Introduction to C++, covering OOP, memory management, and polymorphism.* | C++, Makefile, OOP|
+| [NetPractice] | *A networking exercise to understand IP addressing and subnetting.* | Networking, System Admin |
+| ``exam-05`` | *Rank 5 exam* | C, Makefile, exam, *minishell*, *microshell* |
+| [Webserv] | *Build an HTTP server, learning the basics of web protocols.* | C++, Networking, Web |
+| [ft_irc] | *Create an IRC server, compatible with official IRC clients.* | C++, Networking, IPC |
+| [Inception] | *A Docker-based project to virtualize multiple services in a custom VM.* | Docker, System Admin, Virtualization |
+| ``exam-06`` | *Rank 6 exam* | C, Exam |
+| [ft_transcendence] | *A full-stack web project, creating a platform for a Pong tournament.* | Web, Full-stack, Group Project |
+
+ [philosophers]: https://github.com/oliverkingz/
+ [minishell]: https://github.com/oliverkingz/
+
+## Projects not chosen from the 42-Cursus
+
+| Project | Description | Topics |
+| :-----: | :---------: | :----: |
+| [FdF] | *A 3D wireframe renderer, visualizing maps in 3D using simple graphics.* | C, Makefile, Graphics, 3D Rendering |
+| [fract-ol] | *A fractal renderer, exploring complex numbers and graphical optimization.* | C, Makefile, Graphics, Fractals |
+| [minitalk] | *A small data exchange program using UNIX signals.* | C, Makefile, Signals, IPC |
 
 ---
 
@@ -67,15 +98,16 @@ Throughout the Cursus, I developed strong technical skills in the following area
 
 Here are some of the main tools and technologies I’ve used during my time at 42 Madrid:
 
-- **Git**  
-- **Docker**  
-- **Bash**  
+- **Bash**
+- **Git**   
 - **C**  
+- **Makefiles**  
+- **Codam's MLX42** (for graphics)  
+
+- **Docker**  
 - **C++**  
 - **HTML/CSS**  
 - **JavaScript**  
 - **Node.js**  
 - **SQL**  
-- **MiniLibX or Codam** (for graphics)  
-- **Makefiles**  
 - **SQL databases**
