@@ -17,7 +17,7 @@ Welcome to my 42 Madrid Cursus portfolio! Here you will find an overview of the 
 | [libft] | *Your first C library, replicating standard functions and adding custom utilities.* | C, Makefile, Library |
 | [get_next_line] | *Reads a line from a file descriptor, essential for file and input handling.* | C, File I/O, Reading |
 | [ft_printf] | *A custom implementation of printf, supporting basic formatting and variadic functions.* | C, Makefile, Print |
-| born2beroot | *Introduction to virtualization with a custom Linux server setup* | Shell, Virtualization |
+| [Born2beroot] | *Introduction to virtualization with a custom Linux server setup* | Shell, Virtualization |
 | ``exam-02`` | *Rank 2 exam, testing knowledge of C basics* | C, Exam |
 | [so_long] | *A 2D game using MLX42, focusing on graphics, sprites, and game logic.!* | C, Makefile, UX, Graphics, Videogame |
 | [push_swap] | *Sorts data on a stack using a limited set of instructions, optimizing for the fewest moves.* | C, Makefile, Sorting Algorithms |
@@ -26,6 +26,7 @@ Welcome to my 42 Madrid Cursus portfolio! Here you will find an overview of the 
  [libft]: https://github.com/oliverkingz/Libft_OZ
  [get_next_line]: https://github.com/oliverkingz/get_next_line
  [ft_printf]: https://github.com/oliverkingz/ft_printf
+ [Born2beroot]: https://github.com/oliverkingz/Born2beroot
  [push_swap]: https://github.com/oliverkingz/push_swap
  [so_long]: https://github.com/oliverkingz/so_long
  [pipex]: https://github.com/oliverkingz/pipex
