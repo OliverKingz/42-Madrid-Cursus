@@ -19,7 +19,7 @@ Welcome to my 42 Madrid Cursus portfolio! Here you will find an overview of the 
 | ``exam-02``                                          | *Rank 2 exam, testing knowledge of C basics* | C, Exam | [![100](https://img.shields.io/badge/100-2ea44f)]() |
 | ![so_long-bonus](./badges/so_longm.png)              | [so_long]: *A 2D game using MLX42, focusing on graphics, sprites, and game logic.!* | C, Makefile, UX, Graphics, Videogame | [![125](https://img.shields.io/badge/125-2ea44f)]() |
 | ![push_swap-bonus](./badges/push_swapm.png)          | [push_swap]: *Sorts data on a stack using a limited set of instructions, optimizing for the fewest moves.* | C, Makefile, Sorting Algorithms | [![123](https://img.shields.io/badge/123-2ea44f)]() |
-| ![pipex-bonus](./badges/pipexm.png)                  | [pipex] : *Mimics shell pipes, handling command execution and I/O redirection.	* | C, Makefile, Fork, Process Management | (WIP) |
+| ![pipex-bonus](./badges/pipexm.png)                  | [pipex] : *Mimics shell pipes, handling command execution and I/O redirection.* | C, Makefile, Fork, Process Management | (WIP) |
 
  [libft]: https://github.com/oliverkingz/Libft_OZ
  [get_next_line]: https://github.com/oliverkingz/get_next_line
