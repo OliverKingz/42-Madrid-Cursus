@@ -10,19 +10,43 @@ Welcome to my 42 Madrid Cursus portfolio! Here you will find an overview of the 
 
 ## Finished Projects
 
-| Project                | Description                                                                                    | Topics                                | Score  |
-| :--------------------: | :--------------------------------------------------------------------------------------------: | :-----------------------------------: | :----: |
-| [![libft-bonus]][libft]         | [libft]: *Your first C library, replicating standard functions and adding custom utilities.*   | C, Makefile, Library                  | ![125] |
-| [![get_next_line-bonus]][get_next_line] | [get_next_line]: *Reads a line from a file descriptor, essential for file and input handling.* | C, File I/O, Reading                  | ![125] |
-| [![ft_printf-manda]][ft_printf]     | [ft_printf]: *A custom implementation of printf, with basic formatting & variadic functions.*  | C, Makefile, Print                    | ![100] |
-| [![born2beroot-bonus]][Born2beroot]   | [Born2beroot]: *Introduction to virtualization with a custom Linux server setup.*              | Shell, Virtualization                 | ![125] |
-| ``exam-02``            | *Rank 2 exam, testing knowledge of C basics.*                                                  | C, Exam                               | ![100] |
-| [![so_long-bonus]][so_long]       | [so_long]: *A 2D game using MLX42, focusing on graphics, sprites, and game logic.*             | C, Makefile, UX, Graphics, Videogame  | ![125] |
-| [![push_swap-bonus]][push_swap]     | [push_swap]: *Sorts data on a stack using a set of instructions, optimizing for lesser moves.* | C, Makefile, Sorting Algorithms       | ![123] |
-| [![pipex-bonus]][pipex]         | [pipex]: *Mimics shell pipes, handling command execution and I/O redirection.*                 | C, Makefile, Fork, Process Management | ![125] |
-| ``exam-03``            | *Rank 3 exam, testing knowledge of ft_printf, and get_next_line.*                              | C, exam, *ft_printf*, *get_next_line* | ![100] |
-| [![philosophers-manda]][philosophers]   | [philosophers]: *Simulates the dining philosophers problem, exploring threads and mutexes*     | C, Makefile, Thread, Mutex            | *WIP*  |
-| [![minishell-manda]][minishell]      | [minishell]: *A minimal shell implementation, handling basic commands and pipelines.*          | C, Makefile, Shell                    | *WIP*  |
+| Project                                 | Description                                                                                    | Topics                                | Score  | Group Project   |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------------: | :-----------------------------------: | :----: | :-------------: |
+| [![libft-bonus]][libft]                 | [libft]: *Your first C library, replicating standard functions and adding custom utilities.*   | C, Makefile, Library                  | ![125] |  ❌            |
+| [![get_next_line-bonus]][get_next_line] | [get_next_line]: *Reads a line from a file descriptor, essential for file and input handling.* | C, File I/O, Reading                  | ![125] |  ❌            |
+| [![ft_printf-manda]][ft_printf]         | [ft_printf]: *A custom implementation of printf, with basic formatting & variadic functions.*  | C, Makefile, Print                    | ![100] |  ❌            |
+| [![born2beroot-bonus]][Born2beroot]     | [Born2beroot]: *Introduction to virtualization with a custom Linux server setup.*              | Shell, Virtualization                 | ![125] |  ❌            |
+| ``exam-02``                             | *Rank 2 exam, testing knowledge of C basics.*                                                  | C, Exam, Libft, Bitwise               | ![100] |  ❌            |
+| [![so_long-bonus]][so_long]             | [so_long]: *A 2D game using MLX42, focusing on graphics, sprites, and game logic.*             | C, Makefile, UX, Graphics, Videogame  | ![125] |  ❌            |
+| [![push_swap-bonus]][push_swap]         | [push_swap]: *Sorts data on a stack using a set of instructions, optimizing for lesser moves.* | C, Makefile, Sorting Algorithms       | ![123] |  ❌            |
+| [![pipex-bonus]][pipex]                 | [pipex]: *Mimics shell pipes, handling command execution and I/O redirection.*                 | C, Makefile, Fork, Process Management | ![125] |  ❌            |
+| ``exam-03``                             | *Rank 3 exam, testing knowledge of ft_printf, and get_next_line.*                              | C, exam, *ft_printf*, *get_next_line* | ![100] |  ❌            |
+| [![philosophers-manda]][philosophers]   | [philosophers]: *Simulates the dining philosophers problem, exploring threads and mutexes*     | C, Makefile, Thread, Mutex            | *WIP*  |  ❌            |
+| [![minishell-manda]][minishell]         | [minishell]: *A minimal shell implementation, handling basic commands and pipelines.*          | C, Makefile, Shell                    | *WIP*  |  ✅ 2 People   |
+
+## Future Projects (TBD)
+
+| Project                            | Description                                                                                     | Topics                                   | Score  | Group Project   |
+| :--------------------------------: | :---------------------------------------------------------------------------------------------: | :--------------------------------------: | :----: | :-------------: |
+| ``exam-04``                        | *Rank 4 exam*                                                                                   | C, exam, *mini_paint*, *micro_paint*     | *TBD*  |  ❌            |
+| [![cub3d-manda]][cub3d]            | [cub3d]: *A raycasting-based 3D game inspired by Wolfenstein 3D.*                               | C, Makefile, 3D Rendering, FPS, UX       | *TBD*  |  ✅ 2 People   |
+| [![miniRT-manda]][miniRT]          | [miniRT]: *An introduction to ray tracing, creating simple 3D scenes with lighting.*            | C, Makefile, Graphics, Raytracing        | *TBD*  |  ✅ 2 People   |
+| [![CPPMod-manda]][CPPModules]      | [CPPModules]: *Introduction to C++, covering OOP, memory management, and polymorphism.*         | C++, Makefile, OOP                       | *TBD*  |  ❌            |
+| [![NetPractice-m]][NetPractice]    | [NetPractice]: *A networking exercise to understand IP addressing and subnetting.*              | Networking, System Admin                 | *TBD*  |  ❌            |
+| ``exam-05``                        | *Rank 5 exam*                                                                                   | C, Makefile, exam, *microshell*          | *TBD*  |  ❌            |
+| [![Webserv-manda]][Webserv]        | [Webserv]: *Build an HTTP server, learning the basics of web protocols.*                        | C++, Networking, Web                     | *TBD*  |  ✅ 2-3 People |
+| [![ft_irc-manda]][ft_irc]          | [ft_irc]: *Create an IRC server, compatible with official IRC clients.*                         | C++, Networking, IPC                     | *TBD*  |  ✅ 2-3 People |
+| [![Inception-manda]][Inception]    | [Inception]: *A Docker-based project to virtualize multiple services in a custom VM.*           | Docker, System Admin, Virtualization     | *TBD*  |  ❌            |
+| ``exam-06``                        | *Rank 6 exam*                                                                                   | C, Exam                                  | *TBD*  |  ❌            |
+| [![ft_transc-m]][ft_transcendence] | [ft_transcendence]: *A full-stack web project, creating a platform for a Pong tournament.*      | Web, Full-stack, Group Project           | *TBD*  |  ✅ 3-5 People |
+
+## Projects not chosen from the 42-Cursus
+
+| Project | Description | Topics |
+| :-----: | :---------: | :----: |
+| [FdF] | *A 3D wireframe renderer, visualizing maps in 3D using simple graphics.* | C, Makefile, Graphics, 3D Rendering |
+| [fract-ol] | *A fractal renderer, exploring complex numbers and graphical optimization.* | C, Makefile, Graphics, Fractals |
+| [minitalk] | *A small data exchange program using UNIX signals.* | C, Makefile, Signals, IPC |
 
 <!-- Project Badges Links -->
 [libft-bonus]: ./badges/libftm.png  
@@ -35,14 +59,14 @@ Welcome to my 42 Madrid Cursus portfolio! Here you will find an overview of the 
 [philosophers-manda]: ./badges/philosopherse.png  
 [minishell-manda]: ./badges/minishelle.png
 
-[cub3d-manda]: ./badges/cub3dm.png  
-[miniRT-manda]: ./badges/minirtm.png  
-[CPP Modules 00-04-manda]: ./badges/cpp_modulesm.png  
-[NetPractice-manda]: ./badges/netpracticem.png  
-[Webserv-manda]: ./badges/webservm.png  
-[ft_irc-manda]: ./badges/ft_ircm.png  
-[Inception-manda]: ./badges/inceptionm.png  
-[ft_transcendence-manda]: ./badges/ft_transcendencem.png
+[cub3d-manda]: ./badges/cub3de.png  
+[miniRT-manda]: ./badges/minirte.png  
+[CPPMod-manda]: ./badges/cppe.png  
+[NetPractice-m]: ./badges/netpracticee.png  
+[Webserv-manda]: ./badges/webserve.png  
+[ft_irc-manda]: ./badges/ft_irce.png  
+[Inception-manda]: ./badges/inceptione.png  
+[ft_transc-m]: ./badges/ft_transcendencee.png
 
 <!-- Project Links -->
 [libft]: https://github.com/oliverkingz/Libft_OZ  
@@ -57,7 +81,7 @@ Welcome to my 42 Madrid Cursus portfolio! Here you will find an overview of the 
 
 [cub3d]: https://github.com/oliverkingz/cub3d  
 [miniRT]: https://github.com/oliverkingz/miniRT  
-[CPP Modules 00-04]: https://github.com/oliverkingz/cpp_modules  
+[CPPModules]: https://github.com/oliverkingz/cpp_modules  
 [NetPractice]: https://github.com/oliverkingz/netpractice  
 [Webserv]: https://github.com/oliverkingz/webserv  
 [ft_irc]: https://github.com/oliverkingz/ft_irc  
@@ -68,30 +92,6 @@ Welcome to my 42 Madrid Cursus portfolio! Here you will find an overview of the 
 [125]: https://img.shields.io/badge/125-2ea44f  
 [100]: https://img.shields.io/badge/100-2ea44f  
 [123]: https://img.shields.io/badge/123-2ea44f  
-
-## Future Projects (TBD)
-
-| Project                     | Description                                                                | Topics                                    | Score  |
-| :--------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------: | :----: |
-| ``exam-04``                  | *Rank 4 exam*                                                              | C, exam, *mini_paint*, *micro_paint*      | ![100] |
-| [![cub3d-manda]][cub3d]      | [cub3d]: *A raycasting-based 3D game inspired by Wolfenstein 3D.* [cub3d link] | C, Makefile, 3D Rendering, FPS, UX        | ![125] |
-| [![miniRT-manda]][miniRT]    | [miniRT]: *An introduction to ray tracing, creating simple 3D scenes with lighting.* [miniRT link] | C, Makefile, Graphics, Raytracing         | ![125] |
-| [![CPP Modules 00-04-manda]][CPP Modules 00-04] | [CPP Modules 00-04]: *Introduction to C++, covering OOP, memory management, and polymorphism.* [CPP Modules link] | C++, Makefile, OOP                       | ![125] |
-| [![NetPractice-manda]][NetPractice] | [NetPractice]: *A networking exercise to understand IP addressing and subnetting.* [NetPractice link] | Networking, System Admin                 | ![125] |
-| ``exam-05``                  | *Rank 5 exam*                                                              | C, Makefile, exam, *minishell*, *microshell* | ![100] |
-| [![Webserv-manda]][Webserv]  | [Webserv]: *Build an HTTP server, learning the basics of web protocols.* [Webserv link] | C++, Networking, Web                     | ![125] |
-| [![ft_irc-manda]][ft_irc]    | [ft_irc]: *Create an IRC server, compatible with official IRC clients.* [ft_irc link] | C++, Networking, IPC                     | ![125] |
-| [![Inception-manda]][Inception] | [Inception]: *A Docker-based project to virtualize multiple services in a custom VM.* [Inception link] | Docker, System Admin, Virtualization      | ![125] |
-| ``exam-06``                  | *Rank 6 exam*                                                              | C, Exam                                  | ![100] |
-| [![ft_transcendence-manda]][ft_transcendence] | [ft_transcendence]: *A full-stack web project, creating a platform for a Pong tournament.* [ft_transcendence link] | Web, Full-stack, Group Project           | ![125] |
-
-## Projects not chosen from the 42-Cursus
-
-| Project | Description | Topics |
-| :-----: | :---------: | :----: |
-| [FdF] | *A 3D wireframe renderer, visualizing maps in 3D using simple graphics.* | C, Makefile, Graphics, 3D Rendering |
-| [fract-ol] | *A fractal renderer, exploring complex numbers and graphical optimization.* | C, Makefile, Graphics, Fractals |
-| [minitalk] | *A small data exchange program using UNIX signals.* | C, Makefile, Signals, IPC |
 
 ---
 
