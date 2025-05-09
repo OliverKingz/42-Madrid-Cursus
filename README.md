@@ -1,4 +1,4 @@
-# 42 Madrid Cursus by Oliver Zamora (ozamora-)
+# 42 Madrid Cursus by ozamora-
 
 Welcome to my 42 Madrid Cursus portfolio! Here you will find an overview of the skills and projects I’ve developed throughout my journey at 42 Madrid, a highly innovative, self-paced programming school that uses a peer-to-peer learning model.
 
