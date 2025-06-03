@@ -23,16 +23,15 @@ Welcome to my 42 Madrid Cursus portfolio! Here you will find an overview of the 
 | ``exam-03``                             | *Rank 3 exam, testing knowledge of ft_printf, and get_next_line.*                              | C, exam, *ft_printf*, *get_next_line* | ![100] |  ❎            |
 | [![philosophers-manda]][philosophers]   | [philosophers]: *Simulates the dining philosophers problem, exploring threads and mutexes*     | C, Makefile, Thread, Mutex            | ![100] |  ❎            |
 | [![minishell-manda]][minishell]         | [minishell]: *A minimal shell implementation, handling basic commands and pipelines.*          | C, Makefile, Shell                    | ![100] |  ✅ 2 People   |
-| ``exam-04``                             | *Rank 4 exam*                                                                                  | C, exam, *mini_paint*, *micro_paint*  | *TBD*  |  ❎            |
+| ``exam-04``                             | *Rank 4 exam*                                                                                  | C, Makefile, exam, *microshell*       | ![100] |  ❎            |
 | [![CPPMod-manda]][CPPModules]           | [CPPModules]: *Introduction to C++, covering OOP, memory management, and polymorphism.*        | C++, Makefile, OOP                    | *TBD*  |  ❎            |
-| [![NetPractice-m]][NetPractice]         | [NetPractice]: *A networking exercise to understand IP addressing and subnetting.*             | Networking, System Admin              | *TBD*  |  ❎            |
+| [![NetPractice-m]][NetPractice]         | [NetPractice]: *A networking exercise to understand IP addressing and subnetting.*             | Networking, System Admin              | ![100] |  ❎            |
+| [![cub3d-manda]][cub3d]                 | [cub3d]: *A raycasting-based 3D game inspired by Wolfenstein 3D.*                              | C, Makefile, 3D Rendering, FPS, UX    | *TBD*  |  ✅ 2 People   |
 
 ## Future Projects (TBD)
 
 | Project                            | Description                                                                                     | Topics                                   | Score  | Group Project   |
 | :--------------------------------: | :---------------------------------------------------------------------------------------------: | :--------------------------------------: | :----: | :-------------: |
-| [![cub3d-manda]][cub3d]            | [cub3d]: *A raycasting-based 3D game inspired by Wolfenstein 3D.*                               | C, Makefile, 3D Rendering, FPS, UX       | *TBD*  |  ✅ 2 People   |
-| [![miniRT-manda]][miniRT]          | [miniRT]: *An introduction to ray tracing, creating simple 3D scenes with lighting.*            | C, Makefile, Graphics, Raytracing        | *TBD*  |  ✅ 2 People   |
 | ``exam-05``                        | *Rank 5 exam*                                                                                   | C, Makefile, exam, *microshell*          | *TBD*  |  ❎            |
 | [![Webserv-manda]][Webserv]        | [Webserv]: *Build an HTTP server, learning the basics of web protocols.*                        | C++, Networking, Web                     | *TBD*  |  ✅ 2-3 People |
 | [![ft_irc-manda]][ft_irc]          | [ft_irc]: *Create an IRC server, compatible with official IRC clients.*                         | C++, Networking, IPC                     | *TBD*  |  ✅ 2-3 People |
@@ -47,6 +46,7 @@ Welcome to my 42 Madrid Cursus portfolio! Here you will find an overview of the 
 | [FdF] | *A 3D wireframe renderer, visualizing maps in 3D using simple graphics.* | C, Makefile, Graphics, 3D Rendering |
 | [fract-ol] | *A fractal renderer, exploring complex numbers and graphical optimization.* | C, Makefile, Graphics, Fractals |
 | [minitalk] | *A small data exchange program using UNIX signals.* | C, Makefile, Signals, IPC |
+| [miniRT]          | *An introduction to ray tracing, creating simple 3D scenes with lighting.*            | C, Makefile, Graphics, Raytracing        |
 
 <!-- Project Badges Links -->
 [libft-bonus]: ./badges/libftm.png  
